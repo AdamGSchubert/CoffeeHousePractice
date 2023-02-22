@@ -1,0 +1,17 @@
+.pageHeader{
+    text-align: center;
+    line-height: 3;
+}
+
+.list{
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.shop {
+    border-style: dashed;
+    border-width: .42px; 
+    flex-basis: 31%;
+}
